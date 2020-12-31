@@ -1,0 +1,17 @@
+C:\Users\yassi\source\repos\Game Land\bin\Debug\Game Land.exe.config
+C:\Users\yassi\source\repos\Game Land\bin\Debug\Game Land.exe
+C:\Users\yassi\source\repos\Game Land\bin\Debug\Game Land.pdb
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game Land.csprojAssemblyReference.cache
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Interop.WMPLib.dll
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game Land.csproj.ResolveComReference.cache
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game_Land.GameLand.resources
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game_Land.Properties.Resources.resources
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game_Land.Space_Shooter.resources
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game Land.csproj.GenerateResource.cache
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game Land.csproj.CoreCompileInputs.cache
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game Land.exe
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game Land.pdb
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game_Land.Zombie_Shooter.resources
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game_Land.Pacman.resources
+C:\Users\yassi\source\repos\Game Land\obj\Debug\Game_Land.T_rex.resources
